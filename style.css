@@ -1,4 +1,50 @@
-body
+body{
+background-color: #1A2738;
+
+}
+
+h1{
+text-align: center;
+color: white;
+padding-top: 30px;
+font-size: 3rem;
+}
+#dob-input
 {
-  
+margin-left: 11rem;
+height: 2rem;
+width: 30rem;
+/* padding-top: 8px; */
+
+}
+.div1
+{
+
+height: 550px;
+width: 800px;
+border: 2px solid white;
+border-radius: 3px;
+ margin-left: 15rem;
+
+  margin-top: 50px;
+}
+#result{
+color: white;
+margin-top:50px;
+margin-left: 20%;
+margin-right: 20%;
+/* font-size: larger; */
+font-size: 2rem;
+}
+#show-btn
+{
+  width: 8rem;
+  height: 2.5rem ;
+  padding: 0.2rem;
+  border-style: none;
+  margin-left: 21rem;
+  border-radius: 4px;
+  /* color: #40B5AD; */
+  color: black;
+  font-size: 18px;
 }
