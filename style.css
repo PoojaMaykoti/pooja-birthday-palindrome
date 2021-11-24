@@ -11,7 +11,7 @@ font-size: 60px;
 }
 #dob-input
 {
-margin-left: 30rem;
+margin-left: 25rem;
 height: 3rem;
 width: 31rem;
 font-size: 22px;
@@ -29,7 +29,7 @@ border-radius: 3px;
 margin-top: 50px;
 }
 #result{
-color: white;
+color: #873600;
 margin-top:50px;
 margin-left: 20%;
 margin-right: 20%;
@@ -42,9 +42,9 @@ font-size: 2rem;
   height: 3rem ;
   padding: 0.2rem;
   border-style: none;
-  margin-left: 40rem;
+  margin-left: 34rem;
   border-radius: 4px;
   margin-top: 30px;
-  /* color: black; */
+   background-color:#873600 ;
   font-size: 18px;
 }
