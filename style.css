@@ -53,13 +53,13 @@ background-color:#DC7633 ;
 #active-contianer1
 {
   border: 1px solid #DC7633;
-  width: 230px;
+  width: 430px;
   height: 8%;
-  margin-left: 37%;
+  margin-left: 31%;
   margin-top: 20px;
   text-align: center;
   /* padding-top: 3px; */
-  height: 35px;
+  height: 39px;
   font-size: 25px;
   border-radius: 8px;
 }
@@ -68,7 +68,6 @@ a{
   text-decoration: none;
   color:#DC7633 ;
 }
-
 
 
 
