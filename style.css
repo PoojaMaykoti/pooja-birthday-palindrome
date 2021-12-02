@@ -55,7 +55,7 @@ background-color:#DC7633 ;
   border: 1px solid #DC7633;
   width: 430px;
   height: 8%;
-  margin-left: 31%;
+  margin-left: 32.5%;
   margin-top: 20px;
   text-align: center;
   /* padding-top: 3px; */
@@ -68,6 +68,33 @@ a{
   text-decoration: none;
   color:#DC7633 ;
 }
+
+.container
+{
+  border: 1px solid #DC7633;
+  width: 33%;
+  margin-left: 31%;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding-left: 24px;
+  /* color: #DC7633; */
+  font-size: 18px;
+}
+
+
+h2{
+    padding-left: 74px;
+    color:#873600;
+}
+
+
+
+
+
+
+
+
+
 
 
 
